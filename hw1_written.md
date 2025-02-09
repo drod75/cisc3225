@@ -2,6 +2,7 @@
 
     1. (2 points) Besides the speed difference, can you think of any other reasons to prefer NumPy’s adddition
     ufunc over your handwritten matrix addition function?
+    
   - I would prefer numpys function simply because I can chain it with the numerous other methods numpy has, cutting down time in general and allowing for an easier work flow.
   
     2. (3 points) np.add() checks the dimensions of arrays to ensure it is possible to add them together. If
