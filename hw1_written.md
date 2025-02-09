@@ -14,6 +14,26 @@
   error that could occur is if we weren't able to assume that the 2d lists were the same size out of bounds error could occur when trying to check both at once, in total having to do it manually creates the need  
   to handel tons of errors manually.
 
+
+
+## Broadcasting (10 points)
+  1. Problem 1
+-
+
+  2. Problem 2
+-
+
+  3. Problem 3
+-
+
+  4. Problem 4
+-
+
+  5. Problem 5
+-
+
+
+
 ## Answerering Questions with Numpy
   1. How many watts were generated all year?
 -
