@@ -38,18 +38,18 @@
   1. How many watts were generated all year?
 - 218010.26201750195
 
-  2. What were the most watts generated in the morning, afternoon, and evening? The least?
+2. What were the most watts generated in the morning, afternoon, and evening? The least?
 - [446.40434207 450.23976606 247.01509894] for the most
   [166.23303073   0.           0.        ] for the least
 
-  3. What is the average number of watts generated on January afternoons (i.e, afternoons for the first 31
+3. What is the average number of watts generated on January afternoons (i.e, afternoons for the first 31
   days)?
 - 213.90079970179
 
-  4. How many days did the system generate fewer than 500 watts total (in the morning, afternoon, and
+ 4. How many days did the system generate fewer than 500 watts total (in the morning, afternoon, and
   evening)?
 - 85 days of the year occur when the total watt a day is less than 500.
 
-  5. What is the average number of watts generated in the morning, afternoon, and evening all year? Based
-  on what you find, which direction do you believe the solar panels are facing?
+ 5. What is the average number of watts generated in the morning, afternoon, and evening all year? Based
+on what you find, which direction do you believe the solar panels are facing?
 - [300.38834891, 198.39523217,  98.50480801] I believe that the solarpanels are facing towards the morning and slowly go away to the oppisite dirrection which is why the wat t   average goes down
