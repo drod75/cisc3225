@@ -5,7 +5,7 @@
   
 - I would prefer numpys function simply because I can chain it with the numerous other methods numpy has, cutting down time in general and allowing for an easier work flow.
     
-  2. (3 points) np.add() checks the dimensions of arrays to ensure it is possible to add them together. If
+2. (3 points) np.add() checks the dimensions of arrays to ensure it is possible to add them together. If
   you wanted to check that your 2-dimensional lists are the same size, how would you have to modify
   your program and what would you have to check? As part of your answer, give an error condition that
   could occur with 2-dimensional lists but not with NumPy arrays.
