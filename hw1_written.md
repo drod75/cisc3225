@@ -44,7 +44,7 @@
 
 3. What is the average number of watts generated on January afternoons (i.e, afternoons for the first 31
   days)?
-- 213.90079970179
+- 215.93478827333328
 
  4. How many days did the system generate fewer than 500 watts total (in the morning, afternoon, and
   evening)?
