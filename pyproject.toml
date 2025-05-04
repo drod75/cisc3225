@@ -1,0 +1,13 @@
+[project]
+name = "cisc3225"
+version = "0.1.0"
+description = "A respository made to track CISC 3225 Homework"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fireducks>=1.2.7",
+    "ipykernel>=6.29.5",
+    "pandas>=2.2.3",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+]
